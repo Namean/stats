@@ -10,7 +10,7 @@
 | T        |             103. Project Setup              |    - |
 | T        |                104. CSV DATA                |    - |
 | T        |     105. Type Definition Files - Again!     |    - |
-| F        |           106. Reading CSV Files            |    - |
+| T        |           106. Reading CSV Files            |    - |
 | F        |          107. Running an Analysis           |    - |
 | F        |         108. Losing Dataset Context         |    - |
 | F        |              109. Using Enums               |    - |
