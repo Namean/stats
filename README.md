@@ -11,7 +11,7 @@
 | T        |                104. CSV DATA                |    - |
 | T        |     105. Type Definition Files - Again!     |    - |
 | T        |           106. Reading CSV Files            |    - |
-| F        |          107. Running an Analysis           |    - |
+| T        |          107. Running an Analysis           |    - |
 | F        |         108. Losing Dataset Context         |    - |
 | F        |              109. Using Enums               |    - |
 | F        |           110. When to Use Enums            |    - |
